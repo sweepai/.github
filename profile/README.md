@@ -6,6 +6,12 @@ To get started, install https://github.com/apps/sweep-ai. Then add the repositor
 
 Join as an alpha tester at https://discord.gg/j8XxQmpHEF.
 
+🐦 https://twitter.com/sweep__ai
+
+🔗 https://sweep.dev/
+
+✉️ team@sweep.dev
+
 <!--
 
 **Here are some ideas to get you started:**

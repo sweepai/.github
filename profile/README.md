@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is Sweep AI, a Github app to automate your software chores like bug fixes and minor feature requests by spinning up a ticket so you can focus on the complex engineering problems.
+This is Sweep, an AI assistant to automate your software chores like bug fixes and minor feature requests when you spin up a ticket so you can focus on the complex engineering problems.
 
 To get started, install https://github.com/apps/sweep-ai. Then add the repository you want, make a quick ticket (e.g. writing tests), add the label "sweep" and watch the magic happen.
 

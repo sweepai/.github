@@ -1,0 +1,18 @@
+## Hi there 👋
+
+This is Sweep AI, a Github app to automate your software chores like bug fixes and minor feature requests by spinning up a ticket so you can focus on the complex engineering problems.
+
+To get started, install https://github.com/apps/sweep-ai. Then add the repository you want, make a quick ticket (e.g. writing tests), add the label "sweep" and watch the magic happen.
+
+Join as an alpha tester at https://discord.gg/j8XxQmpHEF.
+
+<!--
+
+**Here are some ideas to get you started:**
+
+🙋‍♀️ A short introduction - what is your organization all about?
+🌈 Contribution guidelines - how can the community get involved?
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🍿 Fun facts - what does your team eat for breakfast?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-->

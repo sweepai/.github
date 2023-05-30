@@ -4,6 +4,8 @@ This is Sweep, an AI assistant to automate your software chores like bug fixes a
 
 To get started, install https://github.com/apps/sweep-ai. Then add the repository you want, make a quick ticket (e.g. writing tests), add the label "sweep" and watch the magic happen.
 
+For examples of tickets, check out our fork of Langchain: https://github.com/sweepai/langchain, which has Sweep installed.
+
 Join as an alpha tester at https://discord.gg/j8XxQmpHEF.
 
 🐦 https://twitter.com/sweep__ai

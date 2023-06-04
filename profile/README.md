@@ -10,7 +10,7 @@ To install on your own repos, install at https://github.com/apps/sweep-ai. Then 
 
 ## Privacy
 
-Sweep does not store your code. Instead, on installation, and updates we embed your code and store them in a vector DB, with reference to the file names and line numbers, but your code is not stored. 🔒
+Sweep does not store your code. Instead, on installation and updates, we embed your code and store them in a vector DB with reference to the file names and line numbers, but your code is not stored as plaintext. 🔒
 
 ## Get connected
 

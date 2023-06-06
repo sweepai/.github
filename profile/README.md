@@ -2,6 +2,10 @@
 
 Sweep is a Github assistant the helps you fix small bugs and implement small features. You write tickets and Sweep fixes them so you can focus on the challenging engineering problems.
 
+## Example Tickets
+
+For some examples of effective PR's made by Sweep, check out https://github.com/edreisMD/plugnplai/issues/140 and https://github.com/edreisMD/plugnplai/issues/122.
+
 ## Getting started
 
 To try it out, head over to our forks of Create React App (https://github.com/sweepai/create-react-app/issues) and Langchain (https://github.com/sweepai/langchain/issues). Make a quick ticket and prefix the title with "Sweep:" (not case-sensitive) and watch the magic happen. 🚀🔮

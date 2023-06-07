@@ -8,7 +8,7 @@ For some examples of effective PR's made by Sweep, check out https://github.com/
 
 ## Getting started
 
-To try it out, head over to our forks of Create React App (https://github.com/sweepai/create-react-app/issues) and Langchain (https://github.com/sweepai/langchain/issues). Make a quick ticket and prefix the title with "Sweep:" (not case-sensitive) and watch the magic happen. 🚀🔮
+To try it out, head over to our forks of Create React App (https://github.com/sweepai/create-react-app/issues) and MiniChain (https://github.com/sweepai/MiniChain/issues). Make a quick ticket and prefix the title with "Sweep:" (not case-sensitive) and watch the magic happen. 🚀🔮
 
 To install on your own repos, install at https://github.com/apps/sweep-ai. Then add the repository you want, make a quick ticket (e.g. writing tests), prepend the ticket with "Sweep:" and let Sweep handle the rest. 🛠️✅
 

@@ -18,7 +18,7 @@ Sweep does not store your code., but instead embeds your code and stores them in
 
 ## Get connected
 
-Connect with our community at https://discord.com/invite/sweep-ai. Don't hesitate to reach out to us if something breaks or if you have fresh ideas for Sweep. 💬👥
+Connect with our community at https://discord.com/sweep-ai. Don't hesitate to reach out to us if something breaks or if you have fresh ideas for Sweep. 💬👥
 
 Stay updated with Sweep at:
 

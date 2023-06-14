@@ -10,11 +10,11 @@ To install, click the green install button. Then add the repository you want, ma
 
 Don't have a good repo to try it out? Head over to our forks of [Create React App](https://github.com/sweepai/create-react-app/issues) and [MiniChain](https://github.com/sweepai/minichain/issues). Make a quick ticket and prefix the title with "Sweep:" (not case-sensitive) and let Sweep handle the rest. 🛠️✅
 
-For tricks on prompting Sweep, see [✨ Tricks for Prompting Sweep](https://www.notion.so/Tricks-for-Prompting-Sweep-3124d090f42e42a6a53618eaa88cdbf1?pvs=21).
+For tricks on prompting Sweep, see [✨ Tricks for Prompting Sweep](https://docs.sweep.dev/tips).
 
 ## Privacy
 
-Sweep does not store your code., but instead embeds your code and stores them in a vector DB with reference to the file names and line numbers, but your code is not stored as plaintext. For our full privacy policy, check [🔒 Privacy Policy](https://www.notion.so/sweep-ai/Privacy-Policy-1b044b1cf58a468d8d10ca5c4b32bff6?pvs=4).
+Sweep does not store your code., but instead embeds your code and stores them in a vector DB with reference to the file names and line numbers, but your code is not stored as plaintext. For our full privacy policy, check [🔒 Privacy Policy](https://docs.sweep.dev/privacy-policy).
 
 ## Get connected
 

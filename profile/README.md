@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-Sweep is a Github assistant the helps you fix small bugs and implement small features. You write tickets and Sweep fixes them so you can focus on the challenging engineering problems.
+Sweep (https://github.com/sweepai/sweep) is a Github assistant the helps you fix small bugs and implement small features. You write tickets and Sweep fixes them so you can focus on the challenging engineering problems.
 
 For some examples of tickets made by Sweep, check out https://github.com/edreisMD/plugnplai/issues/140, https://github.com/edreisMD/plugnplai/issues/122 and [🎟️ Example Sweep Tickets](https://www.notion.so/sweep-ai/Example-Sweep-tickets-238f7c88fe3e4153bdea137de30ee7c1?pvs=4) for more.
 

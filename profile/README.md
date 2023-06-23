@@ -6,7 +6,7 @@ For some examples of tickets made by Sweep, check out https://github.com/edreisM
 
 ## Getting started
 
-To install, click the green install button. Then add the repository you want, make a quick ticket (e.g. writing tests), prepend the ticket with "Sweep:" and watch the magic happen. 🚀🔮
+To install go to https://github.com/apps/sweep-ai and click the green install button. Then add the repository you want, make a quick ticket (e.g. writing tests), prepend the ticket with "Sweep:" and watch the magic happen. 🚀🔮
 
 Don't have a good repo to try it out? Head over to our forks of [Create React App](https://github.com/sweepai/create-react-app/issues) and [MiniChain](https://github.com/sweepai/minichain/issues). Make a quick ticket and prefix the title with "Sweep:" (not case-sensitive) and let Sweep handle the rest. 🛠️✅
 

@@ -6,16 +6,36 @@ For some examples of tickets made by Sweep, check out https://github.com/edreisM
 
 ## Getting started
 
-To install go to https://github.com/apps/sweep-ai and click the green install button. Then add the repository you want, make a quick ticket (e.g. writing tests), prepend the ticket with "Sweep:" and watch the magic happen. 🚀🔮
 
-Don't have a good repo to try it out? Head over to our forks of [Create React App](https://github.com/sweepai/create-react-app/issues) and [MiniChain](https://github.com/sweepai/minichain/issues). Make a quick ticket and prefix the title with "Sweep:" (not case-sensitive) and let Sweep handle the rest. 🛠️✅
+### 🖥️ Sweep Chat
+Sweep Chat allows you to interact with Sweep locally and will sync with GitHub. You can plan out your changes with Sweep, and then Sweep can create a pull request for you. 
 
-For tricks on prompting Sweep, see [✨ Tricks for Prompting Sweep](https://docs.sweep.dev/tips).
+1. Install [Sweep GitHub app](https://github.com/apps/sweep-ai) to desired repos
 
-For our Slack integration, see [💼 Getting started with Slack](https://docs.sweep.dev/slack) and install below:
-<p align="left">
-  <a href="https://sweepai--prod-slack-bot.modal.run"><img alt="Add to Slack" height="40" width="139" src="https://platform.slack-edge.com/img/add_to_slack.png" srcSet="https://platform.slack-edge.com/img/add_to_slack.png 1x, https://platform.slack-edge.com/img/add_to_slack@2x.png 2x"  target="_blank" rel="noopener noreferrer" /></a>
-</p>
+2. Run `pip install sweepai && sweep`
+
+3. This should spin up a GitHub auth flow in your browser. Copy-paste the 🔵 blue 8-digit code from your terminal into the page. Then wait a few seconds and it should spin up Sweep Chat. You should only need to do the auth once.
+
+4. Pick a repo from the dropdown at the top (the Github app must be installed on this repo). Then start chatting with Sweep Chat. Relevant searched files will show up on the right. Sweep Chat can make PRs if you ask it to create a PR. 
+<img src="https://github.com/sweepai/sweep/blob/856ff66c2dbeaf39afbf6d8c49a620dfa70271fb/.assets/gradio-screenshot.png">
+
+💡 You can force dark mode by going to http://127.0.0.1:7861/?__theme=dark.
+
+#### From Source
+If you want the nightly build and or if the latest build has issues.
+
+1. `git clone https://github.com/sweepai/sweep && poetry install`
+2. `python sweepai/app/cli.py`
+
+### ✨ Sweep Github App
+Setting up Sweep is as simple as adding the GitHub bot to a repo, then creating an issue for the bot to address.
+
+1. Add the [Sweep GitHub app](https://github.com/apps/sweep-ai) to desired repos
+2. Create new issue in repo, like "Sweep: Write tests"
+3. "👀" means it is taking a look, and it will generate the desired code
+4. "🚀" means the bot has finished its job and created a PR
+
+For more detailed docs, see [🚀 Quickstart](https://docs.sweep.dev/start).
 
 ## Privacy
 
@@ -34,14 +54,3 @@ Stay updated with Sweep at:
 ✉️ team@sweep.dev
 
 We aim to make your development experience smoother and more efficient. Give Sweep a try today and let the magic happen! ✨🤖
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->

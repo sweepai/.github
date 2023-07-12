@@ -39,7 +39,7 @@ For more detailed docs, see [🚀 Quickstart](https://docs.sweep.dev/start).
 
 ## Privacy
 
-Sweep does not store your code., but instead embeds your code and stores them in a vector DB with reference to the file names and line numbers, but your code is not stored as plaintext. For our full privacy policy, check [🔒 Privacy Policy](https://docs.sweep.dev/privacy-policy).
+Sweep does not store your code., but instead embeds your code and stores them in a vector DB with reference to the file names and line numbers, but your code is not stored as plaintext. For our full privacy policy, check [🔒 Privacy Policy](https://docs.sweep.dev/privacy).
 
 ## Get connected
 

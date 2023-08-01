@@ -1,41 +1,62 @@
-## Hello there 👋
+<p align="center">
+    <img src="https://github.com/sweepai/sweep/assets/26889185/39d500fc-9276-402c-9ec7-3e61f57ad233">
+</p>
+<p align="center">
+    <i>Bug Reports & Feature Requests ⟶&nbsp; Code Changes</i>
+</p>
 
-Sweep (https://github.com/sweepai/sweep) is a Github assistant the helps you fix small bugs and implement small features. You write tickets and Sweep fixes them so you can focus on the challenging engineering problems.
+<p align="center">
+<a href="https://sweep.dev">
+    <img alt="Install" src="https://img.shields.io/badge/Install-sweep.dev-blue?link=https%3A%2F%2Fsweep.dev">
+</a>
+<a href="https://docs.sweep.dev/">
+    <img alt="Docs" src="https://img.shields.io/badge/Docs-docs.sweep.dev-blue?link=https%3A%2F%2Fdocs.sweep.dev">
+</a> 
+<a href="https://discord.gg/sweep-ai">
+    <img src="https://dcbadge.vercel.app/api/server/sweep-ai?style=flat" />
+</a>
+<a href="https://github.com/sweepai/sweep">
+    <img src="https://img.shields.io/github/stars/sweepai/sweep" />
+</a>
+<a href="https://twitter.com/sweep__ai">
+    <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fsweep__ai" />
+</a>
+</p>
 
-For some examples of tickets made by Sweep, check out https://github.com/edreisMD/plugnplai/issues/140, https://github.com/edreisMD/plugnplai/issues/122 and [🎟️ Example Sweep Tickets](https://docs.sweep.dev/examples) for more.
-
-## Getting started
 
 
-### 🖥️ Sweep Chat
-Sweep Chat allows you to interact with Sweep locally and will sync with GitHub. You can plan out your changes with Sweep, and then Sweep can create a pull request for you. 
+[Sweep](https://github.com/sweepai/sweep) is an AI junior developer that transforms bug reports & feature requests into code changes.
 
-1. Install [Sweep GitHub app](https://github.com/apps/sweep-ai) to desired repos
+Describe bugs, small features, and refactors like you would to a junior developer, and Sweep:
+1. 🔍 reads your codebase
+2. 📝 plans the changes
+3. ⚡**writes a pull request with code**⚡
 
-2. Run `pip install sweepai && sweep`
+### Features 🌠
 
-3. This should spin up a GitHub auth flow in your browser. Copy-paste the 🔵 blue 8-digit code from your terminal into the page. Then wait a few seconds and it should spin up Sweep Chat. You should only need to do the auth once.
+* 🌠 Turns issues directly into pull requests (without an IDE)
+* 👀 Addresses developer replies & comments on its PRs
+* 🔎 Uses embedding-based code search
 
-4. Pick a repo from the dropdown at the top (the Github app must be installed on this repo). Then start chatting with Sweep Chat. Relevant searched files will show up on the right. Sweep Chat can make PRs if you ask it to create a PR. 
-<img src="https://github.com/sweepai/sweep/blob/856ff66c2dbeaf39afbf6d8c49a620dfa70271fb/.assets/gradio-screenshot.png">
 
-💡 You can force dark mode by going to http://127.0.0.1:7861/?__theme=dark.
+### Why Sweep is Unique 🦄
 
-#### From Source
-If you want the nightly build and or if the latest build has issues.
+Unlike Copilot, which only provides IDE based autocompletion, Sweep handles the entire flow end-to-end. Unlike ChatGPT, Sweep does not require pasting files.
 
-1. `git clone https://github.com/sweepai/sweep && poetry install`
-2. `python sweepai/app/cli.py`
 
-### ✨ Sweep Github App
-Setting up Sweep is as simple as adding the GitHub bot to a repo, then creating an issue for the bot to address.
+[Demo](https://github.com/sweepai/sweep/assets/44910023/365ec29f-7317-40a7-9b5e-0af02f2b0e47)
 
-1. Add the [Sweep GitHub app](https://github.com/apps/sweep-ai) to desired repos
-2. Create new issue in repo, like "Sweep: Write tests"
-3. "👀" means it is taking a look, and it will generate the desired code
-4. "🚀" means the bot has finished its job and created a PR
+---
+## Getting Started 🚀
 
-For more detailed docs, see [🚀 Quickstart](https://docs.sweep.dev/start).
+Install Sweep by adding the [**Sweep GitHub app**](https://github.com/apps/sweep-ai) to your desired repositories.
+
+* For more details, visit our [✨ Installation](docs/installation.md) page.
+
+* Note: Sweep only considers issues with the "Sweep:" title on creation and not on update. If you want Sweep to pick up an issue after it has been created, you can add the "Sweep" label to the issue.
+
+* We support all languages GPT-4 supports, including Python, JS/TS, Rust, Go, Java, C# and C++.
+
 
 ## Privacy
 
